@@ -35,3 +35,24 @@ app.listen(port, () => {
 ```
 
 ---
+
+#### Routes
+
+```javascript
+
+const routes = [
+    { route: '/',  path: '.'},// For root path
+    { route: '/app',  path: './app'},
+    
+];
+/*--------------------------------------------------------------------------*/
+// { route: '/',  path: '.'} for project root index.html
+// http://localhost:5040/app ---- index.html
+// http://localhost:5040/app/foo.html
+// http://localhost:5040/app/img.jpg
+// http://localhost:5040/app/index.css
+// http://localhost:5040/app/index.js
+
+```
+
+---
