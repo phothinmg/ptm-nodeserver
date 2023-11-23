@@ -1,7 +1,7 @@
 {
   "name": "ptm-nodeserver",
   "version": "1.0.0",
-  "description": "Node Js Native Dev Server",
+  "description": "Node Js Native Dev Server with routes",
   "main": "index.js",
   "types": "index.d.ts",
   "type": "module",
