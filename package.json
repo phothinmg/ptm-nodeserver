@@ -1,0 +1,12 @@
+{
+  "name": "ptm-nodeserver",
+  "version": "1.0.0",
+  "description": "Node Js Native Dev Server",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "Node-Native-Server"
+  ],
+  "author": "PTM",
+  "license": "MIT"
+}
